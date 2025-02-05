@@ -18,7 +18,7 @@ bash
 Copy
 Edit
 npm install
-# or
+ or
 yarn install
 Configure your PostgreSQL in typeorm.config.ts or .env:
 
@@ -38,7 +38,7 @@ bash
 Copy
 Edit
 npm run start:dev
-# or
+ or
 yarn start:dev
 Project will be running on http://localhost:3000.
 
@@ -55,7 +55,7 @@ bash
 Copy
 Edit
 npm install
-# or
+or
 yarn install
 Start the development server:
 
